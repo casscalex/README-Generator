@@ -12,7 +12,7 @@ const form = [
     },
     {
         type: 'input',
-        name: 'tile',
+        name: 'title',
         message: 'What is your repository name?'
     },
     { 
