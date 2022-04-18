@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This is a quick and easy read me generator ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casscalex/README-Generator.git"
+  },
+  "author": "Cassidy Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casscalex/README-Generator/issues"
+  },
+  "homepage": "https://github.com/casscalex/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "node": "^17.7.2"
+  }
+}
